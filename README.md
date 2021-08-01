@@ -47,14 +47,10 @@ Now having all the data in a clean format, a line graph was created using the ob
 
 As expected, more drivers and rides in urban cities would result in more total fares every week. Although every city has its own unique trend, the line graph shows that the last week of February and the first week of April seem to be high points across the board. Now, further analysis would be show the reason for such a trend such possible beginning of March break at the end of February or the ending of school in April.
 
-
 ## Summary
 
+Some recommedations to PyBer based on the short analysis done would be to:
+- Conduct further anaslysis considering location also because, two urban cities are not the same and would have different trends. This would also help to identify if location plays a role as well. 
+- Encourage more drivers in rural and suburban areas. Urban areas have significantly more total drivers than total rides which results in lower average fare by driver in comparison to rural and suburban areas. However the average fare per ride is still close to that of rural and suburban areas. Doing so could help the numbers for both rural and suburban areas.
+- Conduct further research on rides per season as this would help in the decision making process.
 
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> fb2fc29f50f8f54cca4d4627d3645a64b050a46b
