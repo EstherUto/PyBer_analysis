@@ -51,7 +51,10 @@ As expected, more drivers and rides in urban cities would result in more total f
 ## Summary
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> fb2fc29f50f8f54cca4d4627d3645a64b050a46b
